@@ -17,7 +17,7 @@ nav_order: 1
 
 </div> -->
 <div class="publications">
- {% bibliography -f nleijenhorst --group_by type %}
+ {% bibliography -f papers --group_by type %}
 </div>
 
 <!-- ## Talks
