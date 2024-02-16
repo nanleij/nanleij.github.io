@@ -12,3 +12,8 @@ nav_order: 1
  {% bibliography -f papers --group_by type %}
 </div>
 
+Talks
+<div class="talks">
+ {% bibliography -f talks --group_by year %}
+</div>
+
