@@ -536,6 +536,14 @@ footer.sticky-bottom {
   margin-bottom: -2rem;
   text-align: right;
 }
+.publications h2.bibliography {
+  color: #e8e8e8;
+  border-top: 1px solid #e8e8e8;
+  padding-top: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: right;
+}
 .publications ol.bibliography {
   list-style: none;
   padding: 0;
