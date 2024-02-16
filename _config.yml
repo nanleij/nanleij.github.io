@@ -292,6 +292,12 @@ scholar:
 
   query: "@*"
 
+  sort_by: date
+  order: descending
+  type_order: [unpublished, article, inbook, book, misc, report, conference, incollections, inproceedings, proceedings, thesis]
+  type_names: {unpublished: Preprints, article: Journal Articles, 
+        thesis: Theses}
+
 badges: # Display different badges for your publications
   altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
