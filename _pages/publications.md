@@ -12,11 +12,11 @@ nav_order: 1
 
 <h1 class="bibliography">Preprints</h1>
 
-{% bibliography -f {{ site.scholar.bibliography }} -q @unpublished --sort_by date --sort_order descending %}
+{% bibliography -f {{ site.scholar.bibliography }} -q @unpublished --sort_by date --order descending %}
 
 <h1 class="bibliography">Theses</h1>
 
-{% bibliography -f {{ site.scholar.bibliography }} -q @thesis --sort_by date --sort_order descending %}
+{% bibliography -f {{ site.scholar.bibliography }} -q @thesis --sort_by date --order descending %}
 
 </div>
 
