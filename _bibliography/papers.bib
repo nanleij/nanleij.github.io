@@ -34,3 +34,26 @@
 	keywords = {Mathematics - Optimization and Control, Mathematics - Number Theory},
 	file = {arXiv Fulltext PDF:C\:\\Users\\nmleijenhorst\\Zotero\\storage\\SMSZM5QE\\Gonçalves et al. - 2023 - Multiplicity of nontrivial zeros of primitive L-fu.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\nmleijenhorst\\Zotero\\storage\\NMEPA5AU\\2303.html:text/html},
 }
+
+@thesis{leijenhorst_quantum_2019,
+	title={Quantum Error Correction: Decoders for the Toric Code},
+	author={Nando Leijenhorst},
+	url={http://resolver.tudelft.nl/uuid:94823249-e114-4fc0-bae9-4c80d503296f},
+	bibtex_show = {true},
+	year = {2019},
+	abbr={Thesis},
+	abstract={Quantum error correction is needed for future quantum computers. Classical error correcting codes are not suitable for this due to the nature of quantum mechanics. Therefore, new codes need to be developed. A promising candidate is the toric code, a surface code, because of its locality and its high error correcting capability and thresholds (the error probability below which increasing the size of the code decreases the failure rate). This thesis provides an introduction to quantum error correction and the stabilizer formalism, which is used to introduce the toric code. Several decoders are looked at, including the Minimum Weight Perfect Matching (MWPM) decoder and a recently developed decoder, the Union-Find (UF) decoder. The UF decoder is useful because of its almost-linear time complexity, while only reducing the threshold by a marginal amount compared to the MWPM decoder. In this thesis, the time complexity of the weighted growth version of the UF decoder is analysed. The toric code and the decoders have been implemented and simulated, and the thresholds have been determined. For the MWPM decoder, the threshold was determined to be 11.5±0.2%, which is not in agreement with the threshold in literature of 10.3%, and should not be possible according to the optimal threshold of about 11%. This probably is a result of the low grid sizes (up to a gridsize of 11) of the code used due to the time needed to simulate the MWPM decoder. For the UF decoder, the threshold found was 9.7 ± 0.9%, which is in agreement with the threshold of 9.9% found by N. Delfosse and N. Nickerson. The time complexity of the UF decoder has also been determined, and is indeed almost-linear as expected by the analysis.},
+	supervisor = {Martijn Caspers and David Elkouss Coronas},
+	committee = {Wioletta Ruszel and Miriam Blaauboer}
+}
+@thesis{leijenhorst_solver_2021,
+	title={A solver for clustered low-rank SDPs arising from multivariate polynomial (matrix) programs},
+	author={Nando Leijenhorst},
+	url={http://resolver.tudelft.nl/uuid:53e114a8-61cd-4f48-8151-76abb0159408},
+	bibtex_show = {true},
+	year = {2021},
+	abbr={Thesis},
+	abstract={In this thesis, we give a primal-dual interior point method specialized to clustered low-rank semidefinite programs. We introduce multivariate polynomial matrix programs, and we reduce these to clustered low-rank semidefinite programs. This extends the work of Simmons-Duffin [J. High Energ. Phys. 1506, no. 174 (2015)] from univariate to multivariate polynomial matrix programs, and to more general clustered low-rank semidefinite programs.  Clustered low-rank semidefinite programs are programs with low-rank constraint matrices where the positive semidefinite variables are only used within clusters of constraints. The free variables can be used in any constraint, and can be used to connect clusters. The solver uses this structure to speed up the computations in two ways. First, the low rank structure is used to reduce matrix products to products of the form uT M v, where M is a matrix and u and v are vectors, as already suggested by Löfberg and Parrilo in [43rd IEEE CDC (2004)]. Second, an additional block-diagonal structure is introduced due to the clusters. This gives the possibility to do operations such as the Cholesky decomposition block-wise.   We apply this to sphere packing and spherical cap packing. For sphere packing, the speed of the solver is compared to the often used arbitrary precision solver SDPA-GMP, showing the theoretical speedup in time complexity. We give a new three-point bound for the maximum density when packing spherical caps of $N$ sizes on the unit sphere.},
+	supervisor = {David {de Laat}},
+	committee = {Dion Gijswijt and Jacob {van der Woude}}
+}
