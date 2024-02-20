@@ -16,7 +16,7 @@ nav_order: 1
 
 <a id="journal"><h1 class="bibliography">Preprints</h1></a>
 
-{% bibliography -f papers -q @unpublished --sort_by year --order descendin %}
+{% bibliography -f papers -q @unpublished --sort_by year --order descending %}
 
 <!-- <a id="conference"><h1 class="bibliography">Journal Publications</h1></a>
 
@@ -28,6 +28,7 @@ nav_order: 1
 
 </div>
 
+---
 
 # Talks
 ### 2024
