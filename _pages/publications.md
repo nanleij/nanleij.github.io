@@ -9,7 +9,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
- {% bibliography -f {{ site.scholar.bibliography }} --group_by type %}
+ {% bibliography -f {{ site.scholar.bibliography }} --group_by type --sort_by=year --ordering=descending %}
 </div>
 
 # Talks
