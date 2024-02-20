@@ -7,24 +7,10 @@ years: [2023, 2022]
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md
-<div class="publications">
- {% bibliography -f {{ site.scholar.bibliography }} %}
-</div> -->
 
 <div class="publications">
 
-<h1 class="bibliography">Preprints</h1>
-
-{% bibliography -f papers -q @unpublished %}
-
-<!-- <h1 class="bibliography">Journal Publications</h1>
-
-{% bibliography -f papers -q @article --sort_by year --order descending %} -->
-
-<h1 class="bibliography">Thesis</h1>
-
-{% bibliography -f papers -q @thesis %}
+{% bibliography -f {{ site.scholar.bibliography }} -q @unpublished %}
 
 </div>
 
