@@ -287,12 +287,12 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
-  details_layout: bib.html
+  details_layout: bibtex.html
   details_link: Details
 
   query: "@*"
 
-  group_by: type, year
+  group_by: type
   # sort_by: date
   order: descending
   type_order: [unpublished, article, inbook, book, misc, report, conference, incollections, inproceedings, proceedings, thesis]
