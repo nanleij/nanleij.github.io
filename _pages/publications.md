@@ -14,17 +14,17 @@ nav_order: 1
 
 <div class="publications">
 
-<a id="journal"><h1 class="bibliography">Preprints</h1></a>
+<h1 class="bibliography">Preprints</h1>
 
-{% bibliography -f papers -q @unpublished --sort_by year --order descending %}
+{% bibliography -f papers -q @unpublished %}
 
-<!-- <a id="conference"><h1 class="bibliography">Journal Publications</h1></a>
+<!-- <h1 class="bibliography">Journal Publications</h1>
 
-{% bibliography -f papers -q @article --sort_by year --order descendin %} -->
+{% bibliography -f papers -q @article --sort_by year --order descending %} -->
 
 <h1 class="bibliography">Thesis</h1>
 
-{% bibliography -f papers -q @thesis --sort_by year --order descending %}
+{% bibliography -f papers -q @thesis %}
 
 </div>
 
