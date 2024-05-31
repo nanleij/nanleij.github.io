@@ -23,7 +23,11 @@ nav_order: 1
 ---
 
 # Talks
+### Upcoming
+- Optimality and uniqueness of the D4 root system, <a href="https://euro2024cph.dk/programme/conference-program">EURO2024</a>, Copenhagen, 01-03/07/2024.
+
 ### 2024
+ - From approximate to exact optimal solutions to large semidefinite programs, <a href="https://www.tilburguniversity.edu/about/schools/economics-and-management/news-and-events/seminars/operations-research">Operations Research seminar</a>, Universiteit Tilburg, 23/05/2024.
  - Rounding solutions of semidefinite programs, DMO Seminar, TU Delft, 26/01/2024.
 
 ### 2023
