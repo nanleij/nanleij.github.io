@@ -3,16 +3,21 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
-years: [2023, 2022]
+years: [2024, 2023, 2022]
 nav: true
 nav_order: 1
 ---
 
 <div class="publications">
 
+
 <h1 class="bibliography">Preprints</h1>
 
 {% bibliography -f {{ site.scholar.bibliography }} -q @unpublished --sort_by year, month --order descending, descending %}
+
+<h1 class="bibliography">Journal papers</h1>
+
+{% bibliography -f {{ site.scholar.bibliography }} -q @article --sort_by year, month --order descending, descending %}
 
 <h1 class="bibliography">Theses</h1>
 
@@ -23,10 +28,9 @@ nav_order: 1
 ---
 
 # Talks
-### Upcoming
-- Optimality and uniqueness of the D4 root system, <a href="https://euro2024cph.dk/programme/conference-program">EURO2024</a>, Copenhagen, 01-03/07/2024.
 
 ### 2024
+ - Optimality and uniqueness of the D4 root system, <a href="https://euro2024cph.dk/programme/conference-program">EURO2024</a>, Copenhagen, 01-03/07/2024.
  - From approximate to exact optimal solutions to large semidefinite programs, <a href="https://www.tilburguniversity.edu/about/schools/economics-and-management/news-and-events/seminars/operations-research">Operations Research seminar</a>, Universiteit Tilburg, 23/05/2024.
  - Rounding solutions of semidefinite programs, DMO Seminar, TU Delft, 26/01/2024.
 
