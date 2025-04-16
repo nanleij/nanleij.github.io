@@ -41,7 +41,7 @@ nav_order: 1
 
 
 ### 2022
- - A specialized SDP solver for sums-of-squares problems in discrete geometry, <a href="http://www.mi.uni-koeln.de/opt/three-days-of-computational-methods-for-extremal-discrete-geometry/"> Three days of computational methods for extremal discrete geometry</a>, University of Cologne, K&ouml;ln, 30/11/2022 - 02/31/2022.
+ - A specialized SDP solver for sums-of-squares problems in discrete geometry, <a href="http://www.mi.uni-koeln.de/opt/three-days-of-computational-methods-for-extremal-discrete-geometry/"> Three days of computational methods for extremal discrete geometry</a>, University of Cologne, K&ouml;ln, 30/11/2022 - 02/12/2022.
  - Solving clustered low-rank semidefinite programs arising in polynomial optimization, Seminar Polynomial Optimization, LAAS-CNRS, Toulouse, 26/09/2022
  - Computations using higher-level correlations of the zeros of the Riemann Zeta-function, <a href="https://event.cwi.nl/semester-programs/2022/PolOpt/indexW1.html"> Workshop on Semidefinite and Polynomial Optimization </a>, CWI, Amsterdam, 29/08/2022 - 02/09/2022.
  - <a href="https://www.esi.ac.at/events/t634/">A specialized SDP solver for sums-of-squares problems in discrete geometry</a>, <a  href="https://www.esi.ac.at/events/e427/">Workshop Optimal Point Configurations on Manifolds</a>, ESI, 10/01/2022 - 21/01/2022, online .
