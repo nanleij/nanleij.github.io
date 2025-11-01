@@ -11,7 +11,7 @@ profile:
   address: >
     <p>LAAS-CNRS</p>
     <p>7 Avenue de Colonel Roche</p>
-    <p>31 031 Toulouse Cedex 4</p>
+    <p>31 031 Toulouse</p>
     <p>France</p>
 
 news: false  # includes a list of news items
