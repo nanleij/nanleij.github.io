@@ -13,6 +13,7 @@ profile:
     <p>7 Avenue de Colonel Roche</p>
     <p>31 031 Toulouse</p>
     <p>France</p>
+    <p>Office E46b</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
