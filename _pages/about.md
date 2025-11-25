@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-From November 2025, I am a Postdoc in the Polynomial Optimization (POP) group at LAAS-CNRS in Toulouse, France. In October 2025, I obtained my PhD in the Discrete Mathematics and Optimization group at Delft University of Technology in Delft, the Netherlands.
+From November 2025, I am a Postdoc in the Polynomial Optimization (POP) group at LAAS-CNRS in Toulouse, France, with Victor Magron and Igor Klep. In October 2025, I obtained my PhD in the Discrete Mathematics and Optimization group at Delft University of Technology in Delft, the Netherlands.
 
 Currently I am mostly interested in applying semidefinite programming and polynomial optimization techniques in various areas, ranging from discrete geometry (e.g., the kissing number problem and energy minimization on the sphere) to quantum information theory (e.g. the NPA hierarchy).
 
