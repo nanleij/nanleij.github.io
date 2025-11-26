@@ -30,8 +30,8 @@ nav_order: 1
 # Talks
 
 ### 2025
- - Lasserre-type hierarchies in discrete geometry, Math-Info seminar, Institute of Mathematics, University of Toulouse, 27/11/2025
- - Layman's talk for my thesis 'On the computation of three and four-point bounds in discrete geometry and analytic number theory', Delft University of Technology, 16/10/2025
+ - Lasserre-type hierarchies in discrete geometry, Math-Info seminar, Institute of Mathematics, University of Toulouse, 27/11/2025.
+ - Layman's talk for my thesis 'On the computation of three and four-point bounds in discrete geometry and analytic number theory', Delft University of Technology, 16/10/2025.
 
 ### 2024
  - Optimality and uniqueness of the D4 root system, <a href="https://euro2024cph.dk/programme/conference-program">EURO2024</a>, Copenhagen, 01-03/07/2024.
