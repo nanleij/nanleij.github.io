@@ -158,7 +158,7 @@
             <a href="https://doi.org//{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">doi</a>
           {%- endif %}      
           {%- if entry.url %}
-            {%- if entry.doi==null}
+            {%- if entry.doi==null %}
               <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">url</a>
             {%- endif %}
           {%- endif %}     
