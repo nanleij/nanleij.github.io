@@ -28,13 +28,16 @@ nav_order: 1
 ---
 
 # Talks
-
+### 2026
+ - Traceless projections of tensors with applications in discrete geometry, Workshop on Structuring Combinatorial Problems with Symmetry, TU Chemnitz, 24-26/06/2026.
+ - Lasserre-type hierarchies in discrete geometry, <a href="https://www.siam.org/conferences-events/siam-conferences/op26/">SIAM Opt 2026</a>, Edinburgh, 02-05/06/2026.
+ - Self-testing through exact SDP bounds, <a href="https://perso.math.univ-toulouse.fr/spot/"> Séminaire Pluridisciplinaire d'Optimisation de Toulouse</a>, Toulouse, 09/03/2026.
 ### 2025
- - Lasserre-type hierarchies in discrete geometry, Math-Info seminar, Institute of Mathematics, University of Toulouse, 27/11/2025.
+ - Lasserre-type hierarchies in discrete geometry, <a href="https://indico.math.cnrs.fr/event/15335/">Math-Info seminar</a>, Institute of Mathematics, University of Toulouse, 27/11/2025.
  - Layman's talk for my thesis 'On the computation of three and four-point bounds in discrete geometry and analytic number theory', Delft University of Technology, 16/10/2025.
 
 ### 2024
- - Optimality and uniqueness of the D4 root system, <a href="https://euro2024cph.dk/programme/conference-program">EURO2024</a>, Copenhagen, 01-03/07/2024.
+ - Optimality and uniqueness of the D4 root system, <a href="https://euro2024.euro-online.org//programme/conference-program">EURO2024</a>, Copenhagen, 01-03/07/2024.
  - From approximate to exact optimal solutions to large semidefinite programs, <a href="https://www.tilburguniversity.edu/about/schools/economics-and-management/news-and-events/seminars/operations-research">Operations Research seminar</a>, Universiteit Tilburg, 23/05/2024.
  - Rounding solutions of semidefinite programs, DMO Seminar, TU Delft, 26/01/2024.
 
