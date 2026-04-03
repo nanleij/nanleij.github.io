@@ -34,6 +34,7 @@ nav_order: 1
  - High-precision semidefinite programming and exact solutions, ENAC seminar, Toulouse, 31/03/2026
  - Exact optimal solutions to semidefinite programs, <a href="veriqtas.github.io">VERIqTAS Workshop 2026</a>, Lyon, 23-25/03/2026 
  - Self-testing through exact SDP bounds, <a href="https://perso.math.univ-toulouse.fr/spot/"> Séminaire Pluridisciplinaire d'Optimisation de Toulouse</a>, Toulouse, 09/03/2026.
+ 
 ### 2025
  - Lasserre-type hierarchies in discrete geometry, <a href="https://indico.math.cnrs.fr/event/15335/">Math-Info seminar</a>, Institute of Mathematics, University of Toulouse, 27/11/2025.
  - Layman's talk for my thesis 'On the computation of three and four-point bounds in discrete geometry and analytic number theory', Delft University of Technology, 16/10/2025.
