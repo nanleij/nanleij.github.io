@@ -29,8 +29,10 @@ nav_order: 1
 
 # Talks
 ### 2026
- - Traceless projections of tensors with applications in discrete geometry, Workshop on Structuring Combinatorial Problems with Symmetry, TU Chemnitz, 24-26/06/2026.
+ - Traceless projections of tensors with applications in discrete geometry, <a href="structuring-combinatorial-problems-with-symmetry-26.tobiasmetzlaff.com">Workshop on Structuring Combinatorial Problems with Symmetry</a>, TU Chemnitz, 24-26/06/2026.
  - Lasserre-type hierarchies in discrete geometry, <a href="https://www.siam.org/conferences-events/siam-conferences/op26/">SIAM Opt 2026</a>, Edinburgh, 02-05/06/2026.
+ - High-precision semidefinite programming and exact solutions, ENAC seminar, Toulouse, 31/03/2026
+ - Exact optimal solutions to semidefinite programs, <a href="veriqtas.github.io">VERIqTAS Workshop 2026</a>, Lyon, 23-25/03/2026 
  - Self-testing through exact SDP bounds, <a href="https://perso.math.univ-toulouse.fr/spot/"> Séminaire Pluridisciplinaire d'Optimisation de Toulouse</a>, Toulouse, 09/03/2026.
 ### 2025
  - Lasserre-type hierarchies in discrete geometry, <a href="https://indico.math.cnrs.fr/event/15335/">Math-Info seminar</a>, Institute of Mathematics, University of Toulouse, 27/11/2025.
