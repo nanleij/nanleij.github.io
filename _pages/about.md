@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>LAAS-CNRS</p>
-    <p>7 Avenue de Colonel Roche</p>
-    <p>31 031 Toulouse</p>
-    <p>France</p>
-    <p>Office E46b</p>
+    <p>Institut für Mathematik</p>
+    <p>Alpen-Adria-Universität Klagenfurt</p>
+    <p>Univeristätsstr. 65-67</p>
+    <p>9020 Klagenfurt am Wörthersee</p>
+    <p>Austria</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-From November 2025, I am a Postdoc in the Polynomial Optimization (POP) group at LAAS-CNRS in Toulouse, France, with Victor Magron and Igor Klep. In October 2025, I obtained my PhD in the Discrete Mathematics and Optimization group at Delft University of Technology in Delft, the Netherlands.
+From September 2026, I am a Postdoc at the Mathematics department at the Alpen-Adria-Universität Klagenfurt, Austria, in the group of [Angelika Wiegele](https://me.aau.at/~anwiegel/). Before, I was a Postdoc in the [Polynomial Optimization](https://www.laas.fr/en/teams/pop/) group at LAAS-CNRS in Toulouse, France, with [Victor Magron](https://homepages.laas.fr/vmagron/) and [Igor Klep](https://igorklep.github.io/). In October 2025, I obtained my PhD in the [Discrete Mathematics and Optimization](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/discrete-mathematics-optimization) group at Delft University of Technology in Delft, the Netherlands, under supervision of David de Laat.
 
 Currently I am mostly interested in applying semidefinite programming and polynomial optimization techniques in various areas, ranging from discrete geometry (e.g., the kissing number problem and energy minimization on the sphere) to quantum information theory (e.g. the NPA hierarchy).
 
